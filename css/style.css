@@ -1,0 +1,34 @@
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.recruit{
+    display: flex;
+}
+
+.recruit p{
+    font-size: 20px;
+}
+ 
+.recruit img{
+    height: 100px;
+}
+
+.humburger img{
+    height:100px;
+    margin-top: 15px;
+}
+
+.cook-recruiting{
+    margin-left: 100px;
+    width: 90%;
+}
+
+.rotate{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+}
